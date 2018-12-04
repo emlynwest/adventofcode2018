@@ -3,5 +3,5 @@ package main
 import "AdventOfCode2018/day1"
 
 func main() {
-	day1.Main()
+	day1.Part1()
 }
